@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+deploy:
+  type: git
+  repository: https://github.com/white586/white586.github.io
+  branch: master
